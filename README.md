@@ -19,4 +19,4 @@ Overall, the Tableau dashboard provides a comprehensive, user-centric view of ap
 This project demonstrates how visual analytics in Tableau can transform raw app data into meaningful business insights, supporting smarter decisions and sustainable app growth.
 
 Screenshot of Dashboard:-
-![1]()
+![1](https://github.com/Archis-Save/TB01-Google_Play_Store_Analysis/blob/main/Tableau_Project.PNG)
